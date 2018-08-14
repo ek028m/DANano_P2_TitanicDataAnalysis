@@ -23,5 +23,7 @@ Determined family size by condensing the SibSp and Parch variables into one.  Th
 ## 4.	How does age affect the likelihood of survival?
 ## a.	Are young or old people more likely to survive?
 The age variable through a bit of a curveball in the investigation because the data had a lot of missing ages for the people on board, 177, to be exact.  In order to continue with the investigation of this data, a simple replacing of the null values with the median age (28 years old) filled in the gaps. 
-![Image of Barchart](https://github.com/ek028m/DANano_P2_TitanicDataAnalysis/ageChart.PNG)
+
+![Image of Barchart](https://github.com/ek028m/DANano_P2_TitanicDataAnalysis/ageChart.png)
+
 At a glance, it seems that infants (< 1 years old) had a 100% survival rate.  Whereas, seniors (ages 60 and above) did not fare so well.
